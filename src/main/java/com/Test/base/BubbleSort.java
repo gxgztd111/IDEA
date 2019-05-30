@@ -50,5 +50,6 @@ public class BubbleSort {
              ) {
             System.out.printf(aa+" ");
         }
+
     }
 }
