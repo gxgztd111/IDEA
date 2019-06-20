@@ -4,7 +4,7 @@ public class Rabbit {
 
     public static void main(String[] args) {
 
-        System.out.printf(fun2(9)+"");
+        System.out.printf(fun(3)+"");
     }
 
 
